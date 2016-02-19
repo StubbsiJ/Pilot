@@ -6,7 +6,9 @@
 
 import time
 import datetime
+import urllib
 import urllib.request
+
 
 
 i = 0
@@ -166,6 +168,12 @@ densityAltitude = pressureAltitude+(120*(tempTrueC-tempISAC))
 
 print('Density Altitude:',densityAltitude,'feet')
 print('Difference from field elevation:',int(densityAltitude-fieldElevation),'feet')
+
+
+# TO GET TAXI DIAGRAM
+url = 'http://flightaware.com/resources/airport/',startLocation[1:4],'/APD/AIRPORT+DIAGRAM/pdf'
+
+#CANNOT DOWNLOAD TAXI DIAGRAM
 
 
 # Does not work for when an international station is reporting "AUTO" before wind
