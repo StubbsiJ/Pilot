@@ -132,6 +132,21 @@ clear tmp1;
 clear tmp2;
 clear tmp3;
 %% STARTING AIRPORT INFORMATION
+% Info stored like:
+
+% startRunwayHeading: Contains the magnetic headings of runways at starting
+% airport in format [rwy1 rwy1(reci.) rwy2 rwy2(reci.)...]
+
+% startRunwayDimensions: Contains the info about dimensions (feet) of runways at
+% starting airport in format [rwy1_length rwy1_width rwy2_length...]
+
+% startRunwayLocation: Contains location of runways at starting airport in
+% format Nx2 matrix, where n is number of rwys:
+%        [rwy1_lat rwy1_lon
+%         rwy1(rec.)_lat rwy1(rec.)_lon
+%         rwy2_lat rwy2_lon
+%         ................... ]
+
 if debug == 0
     url = strcat('https://www.airnav.com/airport/',startField);
     startInfoRAW = urlread(url);
@@ -209,3 +224,6 @@ for i=1:length(tmp1)-1   % FIND LONGITUTES OF RUNWAYS. ASSUMES USA
     startRunwayLocation(j,2) = tmp4+tmp5;
     j = j + 1;
 end
+
+%% Plot starting airport
+plotAirport(startWindSpeed,startWindDir,startTemp,startDP,startVis,startRunwayHeading,startRunwayDimensions,startRunwayLocation)
