@@ -171,15 +171,41 @@ for i=1:length(tmp1)-1   % FIND DIMENSIONS OF RUNWAYS
 end
 
 j = 1;
-for i=1:length(tmp1)-1   % FIND LATITUDES OF RUNWAYS
+for i=1:length(tmp1)-1   % FIND LATITUDES OF RUNWAYS. ASSUMES USA
     currentRunwayInfo = startInfoRAW(tmp1(i):tmp1(i+1));
     tmp2 = strfind(currentRunwayInfo,'Latitude:');
     latitudes = currentRunwayInfo(tmp2(1)+24:tmp2(1)+67);
     tmp3 = strfind(latitudes,'-');
-    tmp4 = strcat(latitudes(tmp3(1)-2:tmp3(1)-1),'.',latitudes(tmp3(1)+1:tmp3(1)+2));
-    startRunwayLocation(j,1) = str2num(dimensions(1:tmp3-1));
+    tmp4 = latitudes(tmp3(1)-2:tmp3(1)-1);
+    tmp4 = str2num(tmp4);
+    tmp5 = strcat(latitudes(tmp3(1)+1:tmp3(1)+2),'.',latitudes(tmp3(1)+4:tmp3(1)+9));
+    tmp5 = str2num(tmp5)/60;
+    startRunwayLocation(j,1) = tmp4+tmp5;
     j = j + 1;
-    startRunwayLocation(j,1) = str2num(dimensions(tmp3+1:end));
+    tmp4 = latitudes(tmp3(1)-2:tmp3(1)-1);
+    tmp4 = str2num(tmp4);
+    tmp5 = strcat(latitudes(tmp3(2)+1:tmp3(2)+2),'.',latitudes(tmp3(2)+4:tmp3(2)+9));
+    tmp5 = str2num(tmp5)/60;
+    startRunwayLocation(j,1) = tmp4+tmp5;
     j = j + 1;
 end
-    
+
+j = 1;
+for i=1:length(tmp1)-1   % FIND LONGITUTES OF RUNWAYS. ASSUMES USA
+    currentRunwayInfo = startInfoRAW(tmp1(i):tmp1(i+1));
+    tmp2 = strfind(currentRunwayInfo,'Longitude:');
+    longitudes = currentRunwayInfo(tmp2(1)+24:tmp2(1)+70);
+    tmp3 = strfind(longitudes,'-');
+    tmp4 = longitudes(tmp3(1)-2:tmp3(1)-1);
+    tmp4 = str2num(tmp4);
+    tmp5 = strcat(longitudes(tmp3(1)+1:tmp3(1)+2),'.',longitudes(tmp3(1)+4:tmp3(1)+9));
+    tmp5 = str2num(tmp5)/60;
+    startRunwayLocation(j,2) = tmp4+tmp5;
+    j = j + 1;
+    tmp4 = longitudes(tmp3(1)-2:tmp3(1)-1);
+    tmp4 = str2num(tmp4);
+    tmp5 = strcat(longitudes(tmp3(2)+1:tmp3(2)+2),'.',longitudes(tmp3(2)+4:tmp3(2)+9));
+    tmp5 = str2num(tmp5)/60;
+    startRunwayLocation(j,2) = tmp4+tmp5;
+    j = j + 1;
+end
