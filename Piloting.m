@@ -5,9 +5,12 @@ clc
 clear all
 close all
 
+debug = 1;  % To debug program (USES KMSN DATA FROM 24/2 - 2016)
+
 % SO FAR ONLY FIXING FOR USA
 
 startField = 'a'; %INIT
+endField = 'a';
 gustFlag = 0;
 
 disp('Welcome to the Stubbs Preplanning Procedure')
@@ -16,14 +19,23 @@ disp(' ')
 disp(' ')
 disp(' ')
 
-while length(startField) ~= 4
-    startField = input('Where are you takin off from? [4 letter ICAO] >>> ','s');
+if debug == 0
+    while length(startField) ~= 4
+        startField = input('Where are you taking off from? [4 letter ICAO] >>> ','s');
+    end
+else
+    startField = 'KTST'; % FOR DEBUG 
 end
 
-%endField = input('What is your destination? [4 letter ICAO] >>> ','s'); %FIX
-%TO LOOP
+if debug == 0
+    while length(endField) ~= 4
+        endField = input('Where are you landing? [4 letter ICAO] >>> ','s');
+    end
+else
+    endField = 'KEXP'; % FOR DEBUG 
+end
+    
 
-endField = 'KORD'; % FOR DEBUG 
 
 if startField(1) == 'K'
     startCountry = 'USA';
@@ -33,14 +45,23 @@ end
 
 
 % GET METAR
-url = strcat('https://aviationweather.gov/adds/metars?station_ids=',...
+if debug == 0
+    url = strcat('https://aviationweather.gov/adds/metars?station_ids=',...
     startField,...
     '&std_trans=standard&chk_metars=on&hoursStr=most+recent+only&submitmet=Submit');
 
-metarRAW = urlread(url);
-metarRAWStart = strfind(metarRAW,startField);
-metarRAWEnd = strfind(metarRAW,'</FONT>');
-metar = metarRAW(metarRAWStart:metarRAWEnd-1);
+    metarRAW = urlread(url);
+    metarRAWStart = strfind(metarRAW,startField);
+    metarRAWEnd = strfind(metarRAW,'</FONT>');
+    metar = metarRAW(metarRAWStart:metarRAWEnd-1);
+else
+    fid = fopen('metar.txt','r');
+    tmp4 = fread(fid);
+    metar = char(tmp4)';
+    fclose(fid);
+    clear fid;
+    clear tmp4;
+end
 
 if startCountry == 'USA'
     tmp1 = strfind(metar,'/'); % multiple instances
@@ -111,17 +132,54 @@ clear tmp1;
 clear tmp2;
 clear tmp3;
 %% STARTING AIRPORT INFORMATION
-url = strcat('https://www.airnav.com/airport/',startField);
-startInfoRAW = urlread(url);
+if debug == 0
+    url = strcat('https://www.airnav.com/airport/',startField);
+    startInfoRAW = urlread(url);
+else
+    fid = fopen('startInfoRAW.txt','r');
+    tmp4 = fread(fid);
+    startInfoRAW = char(tmp4)';
+    fclose(fid);
+    clear fid;
+    clear tmp4;
+end
 
-tmp1 = strfind(startInfoRAW,'Runway heading');
+tmp1 = strfind(startInfoRAW,'<H4>Runway ');
+tmp1(end+1) = tmp1(end)+4000; %tmp1 now contains all locations of rwys (and to read last)
 startRunwayHeading = [];
 j = 1;
-for i=1:length(tmp1)   % THIS LOOP BUGS BECAUSE CANNOT ASSING STRING TO ARRAY
-    startRunwayHeading(j) = startInfoRAW(tmp1(i)+15:tmp1(i)+25);
+for i=1:length(tmp1)-1   % FIND HEADINGS OF RUNWAYS
+    currentRunwayInfo = startInfoRAW(tmp1(i):tmp1(i+1));
+    tmp2 = strfind(currentRunwayInfo,'magnetic');
+    startRunwayHeading(j) = str2num(currentRunwayInfo(tmp2(1)-4:tmp2(1)-2));
     j = j + 1;
-    startRunwayHeading(j) = startInfoRAW(tmp1(i)+15:tmp1(i)+25);
+    startRunwayHeading(j) = str2num(currentRunwayInfo(tmp2(2)-4:tmp2(2)-2));
     j = j + 1;
 end
 
+
+j = 1;
+for i=1:length(tmp1)-1   % FIND DIMENSIONS OF RUNWAYS
+    currentRunwayInfo = startInfoRAW(tmp1(i):tmp1(i+1));
+    tmp2 = strfind(currentRunwayInfo,'Dimensions:');
+    dimensions = currentRunwayInfo(tmp2(1)+47:tmp2(1)+56);
+    tmp3 = strfind(dimensions,'x');
+    startRunwayDimensions(j) = str2num(dimensions(1:tmp3-1));
+    j = j + 1;
+    startRunwayDimensions(j) = str2num(dimensions(tmp3+1:end));
+    j = j + 1;
+end
+
+j = 1;
+for i=1:length(tmp1)-1   % FIND LATITUDES OF RUNWAYS
+    currentRunwayInfo = startInfoRAW(tmp1(i):tmp1(i+1));
+    tmp2 = strfind(currentRunwayInfo,'Latitude:');
+    latitudes = currentRunwayInfo(tmp2(1)+24:tmp2(1)+67);
+    tmp3 = strfind(latitudes,'-');
+    tmp4 = strcat(latitudes(tmp3(1)-2:tmp3(1)-1),'.',latitudes(tmp3(1)+1:tmp3(1)+2));
+    startRunwayLocation(j,1) = str2num(dimensions(1:tmp3-1));
+    j = j + 1;
+    startRunwayLocation(j,1) = str2num(dimensions(tmp3+1:end));
+    j = j + 1;
+end
     
