@@ -2,9 +2,16 @@
 %  Takes input from Piloting.m
 
 % INPUTS:
-% Runway Lengths
-% Runway Widths
-% Runway Locations
+% Wind Speed
+% Wind Direction
+% Wind Gust
+% Air Temperature
+% Air Dew Point
+% Visability
+% Runway Headings vector
+% Runway Dimensions vector
+% Runway Locations vector
+
 
 % OUTPUTS:
 % Plot
@@ -25,6 +32,8 @@ i = 1; %This section does the plotting
 j = 1;
 subplot(1,2,1)
 title('Airport Diagram')
+xlabel('Longitude')
+ylabel('Latitude')
 hold on
 while j<= numberRwys
     rwyWidth = rwyDims(i+1)/10; %Sets visual width in plot
@@ -32,7 +41,6 @@ while j<= numberRwys
     i = i + 2; %Two entries per runway
     j = j + 1; %Counter 
 end
-
 
 subplot(2,2,2)
 
@@ -50,6 +58,4 @@ hold off
 
 end
 
-
-% DOES NOT WORK!!
 
