@@ -7,6 +7,7 @@ close all
 
 debug = 1;  % To debug program (USES KMSN DATA FROM 24/2 - 2016)
 
+
 % SO FAR ONLY FIXING FOR USA
 
 startField = 'a'; %INIT
@@ -226,4 +227,28 @@ for i=1:length(tmp1)-1   % FIND LONGITUTES OF RUNWAYS. ASSUMES USA
 end
 
 %% Plot starting airport
-plotAirport(startWindSpeed,startWindDir,startTemp,startDP,startVis,startRunwayHeading,startRunwayDimensions,startRunwayLocation)
+plotAirport(startWindSpeed,startWindDir,startWindGust,startTemp,startDP,startVis,startRunwayHeading,startRunwayDimensions,startRunwayLocation)
+
+%% Take off information
+
+i = 1;
+takeOffDirection = 1000; %Temporary guess
+oldDiff = 1000;
+
+while i<= length(startRunwayHeading)/2 %number of runways
+    windDiff = abs(startRunwayHeading(i)-startWindDir);
+    if windDiff < oldDiff
+        takeOffDirection = startRunwayHeading(i);
+    end
+    oldDiff = windDiff;
+    i = i + 1;
+end
+
+startCrossWind(1) = abs(startWindSpeed * sind(abs(takeOffDirection-startWindDir)));
+startCrossWind(2) = abs(startWindGust * sind(abs(takeOffDirection-startWindDir)));
+
+disp(' ')
+disp(' ')
+disp('Take Off Information:')
+fprintf('Expect runway %i for take off\n',takeOffDirection)
+fprintf('with a crosswind of: %2.0f kts, gusting %2.0f \n',startCrossWind(1),startCrossWind(2))
