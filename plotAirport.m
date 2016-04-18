@@ -31,12 +31,11 @@ while j<= numberRwys
     j = j + 1; %Counter 
 end
 
-windX(1) = averageLon;
-windY(1) = averageLat;
-windX(2) = windX(1) + cosd(windDirection)*windSpeed; % end X component of wind
-windY(2) = windY(1) + sind(windDirection)*windSpeed; % end Y component of wind
+windX = cosd(windDirection)*windSpeed; % X component of wind
+windY = sind(windDirection)*windSpeed; % Y component of wind
 
-plot(windX(1:2),windY(1:2))
+
+compass(windX,windY)
 
 
 hold off
