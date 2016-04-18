@@ -26,10 +26,19 @@ j = 1;
 hold on
 while j<= numberRwys
     rwyWidth = rwyDims(i+1)/10; %Sets visual width in plot
-    plot(rwyLocs(i:i+1,1),rwyLocs(i:i+1,2),'k','LineWidth',rwyWidth)
+    plot(rwyLocs(i:i+1,2),rwyLocs(i:i+1,1),'k','LineWidth',rwyWidth)
     i = i + 2; %Two entries per runway
     j = j + 1; %Counter 
 end
+
+windX(1) = averageLon;
+windY(1) = averageLat;
+windX(2) = windX(1) + cosd(windDirection)*windSpeed; % end X component of wind
+windY(2) = windY(1) + sind(windDirection)*windSpeed; % end Y component of wind
+
+plot(windX(1:2),windY(1:2))
+
+
 hold off
 
 
