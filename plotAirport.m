@@ -21,18 +21,20 @@ averageLon = mean(rwyLocs(:,2));
 lat2ft = vdist(averageLat+0.5,averageLon,averageLat-0.5,averageLon)*3.2808399; %1 degree lat to feet
 lon2ft = vdist(averageLat,averageLon+0.5,averageLat,averageLon-0.5)*3.2808399; %1 degree lon to feet
 
-i = 1;
+i = 1; %This section does the plotting
 j = 1;
-while i<= numberRwys
-    lat(j) = rwyLocs(i,1);
-    lon(j) = rwyLocs(i,2);
-    for j=2:100
-        lat(j) = lat(j-1)+lat(j-1)*sind(rwyHeads((2*i)-1));
-        lon(j) = lon(j-1)+lon(j-1)*cosd(rwyHeads((2*i)-1));
-    end
-    scatter(lat,lon)
-    i = i + 1;
+hold on
+while j<= numberRwys
+    rwyWidth = rwyDims(i+1)/10; %Sets visual width in plot
+    plot(rwyLocs(i:i+1,1),rwyLocs(i:i+1,2),'k','LineWidth',rwyWidth)
+    i = i + 2; %Two entries per runway
+    j = j + 1; %Counter 
 end
+hold off
+
+
+end
+
 
 % DOES NOT WORK!!
 
