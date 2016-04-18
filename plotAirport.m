@@ -11,7 +11,7 @@
 
 
 %% DO STUFF
-function plotAirport(windSpeed,windDirection,temperature,dewPoint,visability,rwyHeads,rwyDims,rwyLocs)
+function plotAirport(windSpeed,windDirection,gust,temperature,dewPoint,visability,rwyHeads,rwyDims,rwyLocs)
 
 numberRwys = length(rwyHeads)/2;
 
@@ -28,23 +28,23 @@ title('Airport Diagram')
 hold on
 while j<= numberRwys
     rwyWidth = rwyDims(i+1)/10; %Sets visual width in plot
-    plot(rwyLocs(i:i+1,2),rwyLocs(i:i+1,1),'k','LineWidth',rwyWidth)
-    axes('Equal')
+    plot(rwyLocs(i:i+1,2),rwyLocs(i:i+1,1),'k','LineWidth',rwyWidth) %Set axes equal??? <------------
     i = i + 2; %Two entries per runway
     j = j + 1; %Counter 
 end
 
 
 subplot(2,2,2)
+
+
+windX(1) = cosd(windDirection)*windSpeed; % X component of wind
+windY(1) = sind(windDirection)*windSpeed; % Y component of wind
+windX(2) = cosd(windDirection)*gust; % X component of gust
+windY(2) = sind(windDirection)*gust; % Y component of gust
+
+compass(windX,windY) % ROTATE axes <------------------------------------
 title('Wind')
-
-windX = cosd(windDirection)*windSpeed; % X component of wind
-windY = sind(windDirection)*windSpeed; % Y component of wind
-
-
-compass(windX,windY)
-
-
+xlabel('Direction (broken)')
 hold off
 
 
