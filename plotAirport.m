@@ -23,13 +23,20 @@ lon2ft = vdist(averageLat,averageLon+0.5,averageLat,averageLon-0.5)*3.2808399; %
 
 i = 1; %This section does the plotting
 j = 1;
+subplot(1,2,1)
+title('Airport Diagram')
 hold on
 while j<= numberRwys
     rwyWidth = rwyDims(i+1)/10; %Sets visual width in plot
     plot(rwyLocs(i:i+1,2),rwyLocs(i:i+1,1),'k','LineWidth',rwyWidth)
+    axes('Equal')
     i = i + 2; %Two entries per runway
     j = j + 1; %Counter 
 end
+
+
+subplot(2,2,2)
+title('Wind')
 
 windX = cosd(windDirection)*windSpeed; % X component of wind
 windY = sind(windDirection)*windSpeed; % Y component of wind
