@@ -1,0 +1,728 @@
+<HTML>
+
+<!-- Copyright AirNav, LLC.  ALL RIGHTS RESERVED.  -->
+<!-- DO NOT COPY THIS CODE WITHOUT PERMISSION.     -->
+<!-- DO NOT MAKE DERIVATIVE WORKS.                 -->
+<!-- If you are thinking of copying this code      -->
+<!-- email contact@airnav.com for authorization.   -->
+
+<HEAD>
+<TITLE>AirNav: KMSN - Dane County Regional Airport-Truax Field</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<META name="description" content="Complete aeronautical information about Dane County Regional Airport-Truax Field (Madison, WI, USA), including location, runways, taxiways, navaids, radio frequencies, FBO information, fuel prices, hotel and motel listings, hotels, weather, sunrise and sunset times, aerial photo, airport diagram.">
+<META name="keywords" content="Madison">
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+
+sfHover = function() {
+        var sfEls = document.getElementById("navres").getElementsByTagName("LI");
+        for (var i=0; i<sfEls.length; i++) {
+                sfEls[i].onmouseover=function() {
+                        this.className+=" sfhover";
+                }
+                sfEls[i].onmouseout=function() {
+                        this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+                }
+        }
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+//--><!]]></script>
+<LINK rel=StyleSheet href="//img.airnav.com/css/css2.css?v=0" type="text/css">
+<LINK rel=StyleSheet href="//img.airnav.com/css/airport.css?v=0" type="text/css">
+<BASE target="_top">
+</HEAD>
+<BODY bgcolor="#ffffff">
+<TABLE cellpadding=0 border=0 width="100%">
+<TR valign=bottom>
+<TD align=left valign=top height=60>
+<A href="/"><IMG src="//img.airnav.com/logo/header.gif?v=HTWA8Q" width=280 height=60 alt="AirNav" border=0></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD width=468 height=60 align=right>
+<A HREF="http://ad.doubleclick.net/ddm/jump/N5305.285262.AIRNAV/B8756717.118401667;sz=468x60;ord=Vs5Hhn8AAAEAAIe0szQ?"><IMG SRC="//ad.doubleclick.net/ddm/ad/N5305.285262.AIRNAV/B8756717.118401667;sz=468x60;ord=Vs5Hhn8AAAEAAIe0szQ?" BORDER=0 WIDTH=468 HEIGHT=60 ALT="Advertisement"></A>
+
+</TD>
+</TR>
+</TABLE>
+<TABLE width="100%" cellspacing=0 cellpadding=0 border=0>
+<TR><TD width=20>&nbsp;</TD><TD align=left>
+<TABLE cellspacing=0 cellpadding=0 border=0><TR><TD>
+<div id="mainmenu">
+
+<ul>
+    <li><A href="/airports/" id="airports">Airports</a>
+
+
+</li>
+    <li><A href="/navaids/" id="navaids">Navaids</a>
+
+
+</li>
+    <li><A href="/airspace/fix/" id="fix">Airspace Fixes</a>
+
+
+</li>
+    <li><A href="/fuel/" id="fuel">Aviation Fuel</a>
+
+
+</li>
+    <li><A href="/airboss/" id="airboss">AIRBOSS</a>
+
+
+</li>
+    <li><A href="/iphoneapp/" id="iphoneapp">iPhone App</a>
+
+
+</li>
+    <li><A href="https://www.airnav.com/members/login?return=//my.airnav.com/my" id="my">My AirNav</a>
+
+
+</li>
+<ul>
+
+</div>
+</TD></TR></TABLE>
+</TD></TR>
+<TR><TD width=20 bgcolor="#9999FF">&nbsp;</TD><TD width="100%" bgcolor="#9999FF" align=right><FONT size="-1">1242 users online
+ <a href="/members/login"><IMG src="//img.airnav.com/btn/mini/login.gif?v=JZBHPB" width=45 height=10 alt="" border=0></a></font>&nbsp;</TD></TR>
+</TABLE>
+
+
+
+
+<hr>
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+ <tr valign="middle" bgcolor="#CCCCFF"> 
+  <td nowrap align="center" nowrap><font face="Verdana, Arial, Helvetica, sans-serif"><font size=5><b>KMSN</b></font></font></td>
+  <td width="99%" bgcolor="#FFFFFF"> <font face="Verdana, Arial, Helvetica, sans-serif" size="+1"><b>Dane County Regional Airport-Truax Field</b><br>Madison, Wisconsin, USA</font> </td>
+  <td nowrap bgcolor="#FFFFFF"><IMG src="//img.airnav.com/flag/s/us?v=HTWA6S" width=60 height=36 alt="" border=0></td>
+ </tr>
+</table>
+<hr>
+<TABLE width="100%" cellpadding=7 cellspacing=0 border=1>
+<TR><TD bgcolor="#ccccff">
+<H3>GOING TO MADISON?</H3>
+</TD><TD>
+<ul id="navres">
+<li><a href="#"><IMG src="//img.airnav.com/travel-hotel.gif?v=IW9RC4" width=138 height=36 alt="" border=0></a>
+<ul>
+<li><A href=/reserve/hotel?in=WINDSOR,WI,US&near=KMSN>Windsor</A> (5 miles N)</li>
+<li><A href=/reserve/hotel?in=MADISON,WI,US&near=KMSN>Madison</A> (6 miles SW)</li>
+<li><A href=/reserve/hotel?in=DE+FOREST,WI,US&near=KMSN>De Forest</A> (8 miles N)</li>
+<li><A href=/reserve/hotel?in=MIDDLETON,WI,US&near=KMSN>Middleton</A> (9 miles W)</li>
+<li><A href=/reserve/hotel?in=VERONA,WI,US&near=KMSN>Verona</A> (14 miles SW)</li>
+<li><A href=/reserve/hotel?in=STOUGHTON,WI,US&near=KMSN>Stoughton</A> (17 miles S)</li>
+</ul>
+</li>
+	<li><a href="/reserve/enterprise?in=KMSN">
+<IMG src="//img.airnav.com/travel/enterprise.gif?v=MCR0LD" width=89 height=36 alt="" border=0></a>
+</li>
+<li><a href="/reserve/avis?in=KMSN"><IMG src="//img.airnav.com/travel/avis.gif?v=MCR0UY" width=89 height=36 alt="" border=0></a>
+</li>
+	<li>
+<a href="#">
+<IMG src="//img.airnav.com/travel/hertz.gif?v=NIKSK8" width=89 height=36 alt="" border=0></a>
+<ul id="hertzmenu">
+  <li>Where will you pickup your Hertz vehicle?</li>
+  <li>&bullet;&nbsp;<A href="/reserve/hertz?loc=MSNC20">Wisconsin Aviation-Madison</A></li>
+  <li>&bullet;&nbsp;<A href="/reserve/hertz?loc=MSNT01">Hertz location serving airline terminal</A></li>
+</ul>
+</li>
+</ul>
+</TD></TR></TABLE>
+
+
+<BR>
+<table cellspacing=0 cellpadding=0 border=0>
+ <tr valign=top>
+  <td width="99%">
+    <H3>FAA INFORMATION EFFECTIVE 04 FEBRUARY 2016</H3>
+<A name="loc"></A><H3>Location</H3><TABLE cellpadding=0 cellspacing=0 border=0>
+<TR><TD nowrap align=right>FAA Identifier:&nbsp;</TD><TD>MSN</TD></TR>
+<TR><TD valign=top align=right>Lat/Long:&nbsp;</TD><TD valign=top>43-08-23.5649N / 089-20-15.0161W<BR>43-08.392748N / 089-20.250268W<BR>43.1398791 / -89.3375045<BR>(estimated)</TD></TR>
+<TR><TD valign=top align=right>Elevation:&nbsp;</TD><TD valign=top>886.6 ft. / 270.2 m (surveyed)</TD></TR>
+<TR><TD valign=top align=right>Variation:&nbsp;</TD><TD valign=top>03W (2020)</TD></TR>
+<TR><TD nowrap valign=top align=right>From city:&nbsp;</TD><TD valign=top>5 miles NE of MADISON, WI</TD></TR>
+<TR><TD nowrap valign=top align=right>Time zone:&nbsp;</TD><TD valign=top>UTC -6 (UTC -5 during Daylight Saving Time)</TD></TR>
+<TR><TD nowrap align=right>Zip code:&nbsp;</TD><TD>53704</TD></TR>
+</TABLE>
+
+<A name="ops"></A><H3>Airport Operations</H3>
+<TABLE cellpadding=0 cellspacing=0 border=0>
+<TR><TD nowrap valign=top align=right>Airport use:&nbsp;</TD><TD valign=top>Open to the public</TD></TR>
+<TR><TD nowrap align=right>Activation date:&nbsp;</TD><TD>09/1937</TD></TR>
+<TR><TD nowrap valign=top align=right>Sectional chart:&nbsp;</TD><TD valign=top><A href="/sectionals">CHICAGO</A></TD></TR>
+<TR><TD nowrap align=right>Control tower:&nbsp;</TD><TD>yes</TD></TR>
+<TR><TD valign=top align=right>ARTCC:&nbsp;</TD><TD valign=top>CHICAGO CENTER</TD></TR>
+<TR><TD valign=top align=right>FSS:&nbsp;</TD><TD valign=top>GREEN BAY FLIGHT SERVICE STATION</TD></TR>
+<TR><TD nowrap valign=top align=right>NOTAMs facility:&nbsp;</TD><TD valign=top>MSN (NOTAM-D service available)</TD></TR>
+<TR><TD align=right>Attendance:&nbsp;</TD><TD>CONTINUOUS</TD></TR>
+<TR><TD nowrap valign=top align=right>Pattern altitude:&nbsp;</TD><TD valign=top>OVERHEAD TFC PAT ALT RSTD TO 2500 FT, RY 18-36 LEFT TURN.</TD></TR>
+<TR><TD nowrap align=right>Wind indicator:&nbsp;</TD><TD>lighted</TD></TR>
+<TR><TD nowrap align=right>Segmented circle:&nbsp;</TD><TD>no</TD></TR>
+<TR><TD valign=top align=right>Lights:&nbsp;</TD><TD valign=top>WHEN ATCT CLSD HIRL RY 18/36 PRESET ON LOW INTST, TO INCR INTST &amp; ACTVT REIL RY 03; HIRL RY 03/21; REIL RY 32; HIRL RY 14/32; MALSR RY 18; MALSR RY 21; HIRL RY 18/36  - CTAF.</TD></TR>
+<TR><TD valign=top align=right>Beacon:&nbsp;</TD><TD valign=top>white-green (lighted land airport)<BR>Operates sunset to sunrise.</TD></TR>
+<TR><TD nowrap valign=top align=right>Fire and rescue:&nbsp;</TD><TD valign=top>ARFF index C</TD></TR>
+</TABLE>
+
+<A name="com"></A><H3>Airport Communications</H3>
+<TABLE cellspacing=0 cellpadding=0 border=0>
+<TR><TD align=right>CTAF:&nbsp;</TD><TD>119.3</TD></TR>
+<TR><TD align=right>UNICOM:&nbsp;</TD><TD>122.95</TD></TR>
+<TR><TD valign=top align=right>ATIS:&nbsp;</TD><TD valign=top>124.65 278.3</TD></TR>
+<TR><TD nowrap valign=top align=right>WX ASOS:&nbsp;</TD><TD valign=top>PHONE 608-249-0615</TD></TR>
+<TR><TD nowrap valign=top align=right>MADISON GROUND:&nbsp;</TD><TD valign=top>121.9 348.6 [0600-2300]</TD></TR>
+<TR><TD nowrap valign=top align=right>MADISON TOWER:&nbsp;</TD><TD valign=top>119.3 257.8 [0600-2300]</TD></TR>
+<TR><TD nowrap valign=top align=right>MADISON APPROACH:&nbsp;</TD><TD valign=top>120.1(EAST) 135.45(WEST) 343.7 WEST 350.3(EAST) [0600-2300]</TD></TR>
+<TR><TD nowrap valign=top align=right>MADISON DEPARTURE:&nbsp;</TD><TD valign=top>120.1(EAST) 135.45(WEST) 318.1 [0600-2300]</TD></TR>
+<TR><TD nowrap align=right>CLEARANCE DELIVERY:&nbsp;</TD><TD>121.62</TD></TR>
+<TR><TD nowrap valign=top align=right>ANG OPNS:&nbsp;</TD><TD valign=top>138.45 379.5</TD></TR>
+<TR><TD nowrap valign=top align=right>ANG OPS:&nbsp;</TD><TD valign=top>123.4 299.9 40.8</TD></TR>
+<TR><TD nowrap valign=top align=right>CLASS C:&nbsp;</TD><TD valign=top>120.1(EAST) 135.45(WEST) 350.3(EAST)</TD></TR>
+<TR><TD nowrap valign=top align=right>CLASS C IC:&nbsp;</TD><TD valign=top>343.7 WEST</TD></TR>
+<TR><TD valign=top align=right>EMERG:&nbsp;</TD><TD valign=top>121.5 243.0</TD></TR>
+<TR><TD align=right>RDR:&nbsp;</TD><TD>126.85</TD></TR>
+<TR><TD nowrap valign=top align=right>WX AWOS-3 at C29 (9 nm W):&nbsp;</TD><TD valign=top>118.675 (608-833-1686)</TD></TR>
+</TABLE>
+<UL>
+<LI class="rmk">ARMY OPERATION CALL 'FIREFLY'.  0730-1600 LCL.
+<LI class="rmk">APCH/DEP SERVICE PROVIDED BY CHICAGO ARTCC ON FREQS 133.3/380.35 (LONE ROCK RCAG) & 135.45 WHEN MADISON APCH CTL CLSD.
+<LI class="rmk">CALL MADISON OPS .
+<LI class="rmk">3RD PARTY 16 JUN 2011
+</UL>
+
+<A name="nav"></A><H3>Nearby radio navigation aids</H3>
+<TABLE cellspacing=0 cellpadding=0 border=0>
+<TR><TH align=left>VOR&nbsp;radial/distance</TH><TH>&nbsp;&nbsp;</TH><TH align=right>VOR name</TH><TH>&nbsp;&nbsp;</TH><TH>Freq</TH></TH><TH>&nbsp;&nbsp;</TH><TH>Var</TH></TR>
+<TR><TD><A href=/cgi-bin/navaid-info?id=MSN&type=VORTAC&name=MADISON>MSN</A> at field</TD><TD></TD><TD align=right>MADISON VORTAC</TD><TD></TD><TD>108.60</TD><TD></TD><TD>03E</TD></TR>
+<TR><TD><A href=/cgi-bin/navaid-info?id=DLL&type=VORTAC&name=DELLS>DLL</A>r140/30.9</TD><TD></TD><TD align=right>DELLS VORTAC</TD><TD></TD><TD>117.00</TD><TD></TD><TD>03E</TD></TR>
+<TR><TD><A href=/cgi-bin/navaid-info?id=LNR&type=VOR.DME&name=LONE+ROCK>LNR</A>r105/36.0</TD><TD></TD><TD align=right>LONE ROCK VOR/DME</TD><TD></TD><TD>112.80</TD><TD></TD><TD>00E</TD></TR>
+<TR><TD><A href=/cgi-bin/navaid-info?id=JVL&type=VOR.DME&name=JANESVILLE>JVL</A>r341/36.4</TD><TD></TD><TD align=right>JANESVILLE VOR/DME</TD><TD></TD><TD>114.30</TD><TD></TD><TD>03E</TD></TR>
+</TABLE>
+<BR>&nbsp;<BR><TABLE cellspacing=0 cellpadding=0 border=0>
+<TR><TH align=left>NDB&nbsp;name</TH><TH>&nbsp;&nbsp;</TH><TH>Hdg/Dist</TH><TH>&nbsp;&nbsp;</TH><TH>Freq</TH></TH><TH>&nbsp;&nbsp;</TH><TH>Var</TH></TH><TH>&nbsp;&nbsp;</TH><TH align=left colspan=2>ID</TH></TR>
+<TR><TD><A href=/cgi-bin/navaid-info?type=NDB&id=MS&name=MONAH>MONAH</A></TD><TD></TD><TD>005/4.6</TD><TD></TD><TD>400</TD><TD></TD><TD>00E</TD><TD></TD><TD>MS</TD><TD>&nbsp;<FONT face="Monaco,Courier">-- ...</FONT></TR>
+<TR><TD><A href=/cgi-bin/navaid-info?type=NDB&id=RYV&name=ROCK+RIVER>ROCK RIVER</A></TD><TD></TD><TD>267/26.9</TD><TD></TD><TD>371</TD><TD></TD><TD>01W</TD><TD></TD><TD>RYV</TD><TD>&nbsp;<FONT face="Monaco,Courier">.-. -.-- ...-</FONT></TR>
+<TR><TD><A href=/cgi-bin/navaid-info?type=NDB&id=UNU&name=JUNEAU>JUNEAU</A></TD><TD></TD><TD>239/32.7</TD><TD></TD><TD>344</TD><TD></TD><TD>01W</TD><TD></TD><TD>UNU</TD><TD>&nbsp;<FONT face="Monaco,Courier">..- -. ..-</FONT></TR>
+<TR><TD><A href=/cgi-bin/navaid-info?type=NDB&id=JVL&name=JANESVILLE>JANESVILLE</A></TD><TD></TD><TD>335/34.1</TD><TD></TD><TD>375</TD><TD></TD><TD>03E</TD><TD></TD><TD>JVL</TD><TD>&nbsp;<FONT face="Monaco,Courier">.--- ...- .-..</FONT></TR>
+</TABLE>
+
+<A name="svcs"></A><H3>Airport Services</H3>
+<TABLE cellspacing=0 cellpadding=0 border=0>
+<TR><TD nowrap valign=top align=right>Fuel available:&nbsp;</TD><TD valign=top>100LL JET-A<BR>AV FUEL REFUELING AVBL ON EAST OR SOUTH APRON ONLY.</TD></TR>
+<TR><TD align=right>Parking:&nbsp;</TD><TD>hangars</TD></TR>
+<TR><TD nowrap align=right>Airframe service:&nbsp;</TD><TD>MAJOR</TD></TR>
+<TR><TD nowrap align=right>Powerplant service:&nbsp;</TD><TD>MAJOR</TD></TR>
+<TR><TD nowrap align=right>Bottled oxygen:&nbsp;</TD><TD>HIGH/LOW</TD></TR>
+<TR><TD nowrap align=right>Bulk oxygen:&nbsp;</TD><TD>NONE</TD></TR>
+</TABLE>
+
+<A name="rwys"></A><H3>Runway Information</H3>
+<H4>Runway 18/36</H4>
+<TABLE cellspacing=0 cellpadding=0 border=0>
+<TR><TD valign=top align=right>Dimensions:&nbsp;</TD><TD colspan=3 valign=top>9006 x 150 ft. / 2745 x 46 m</TD></TR>
+<TR><TD valign=top align=right>Surface:&nbsp;</TD><TD colspan=3 valign=top>concrete/grooved, in good condition</TD></TR>
+<TR><TD nowrap valign=top align=right>Weight bearing capacity:&nbsp;</TD><TD colspan=3 valign=top><TABLE cellpadding=0 cellspacing=0 border=0><TR><TD colspan=2>PCN 95 /R/B/W/T</TD></TR><TR><TD valign=top nowrap>Single wheel:&nbsp;</TD><TD valign=top>100.0</TD></TR><TR><TD valign=top nowrap>Double wheel:&nbsp;</TD><TD valign=top>200.0</TD></TR><TR><TD valign=top nowrap>Double tandem:&nbsp;</TD><TD valign=top>350.0</TD></TR></TABLE></TD></TR>
+<TR><TD nowrap valign=top align=right>Runway edge lights:&nbsp;</TD><TD colspan=3 valign=top>high intensity</TD></TR>
+<TR><TD valign=top></TD><TD valign=top><B>RUNWAY 18</B></TD><TD>&nbsp;&nbsp;</TD><TD valign=top><B>RUNWAY 36</B></TD></TR>
+<TR><TD align=right>Latitude:&nbsp;</TD><TD>43-08.948228N</TD><TD></TD><TD>43-07.466638N</TD></TR>
+<TR><TD align=right>Longitude:&nbsp;</TD><TD>089-20.461530W</TD><TD></TD><TD>089-20.529960W</TD></TR>
+<TR><TD valign=top align=right>Elevation:&nbsp;</TD><TD valign=top>860.3 ft.</TD><TD></TD><TD valign=top>862.0 ft.</TD></TR>
+<TR><TD nowrap align=right>Traffic pattern:&nbsp;</TD><TD>left</TD><TD></TD><TD>left</TD></TR>
+<TR><TD nowrap valign=top align=right>Runway heading:&nbsp;</TD><TD valign=top>185 magnetic, 182 true</TD><TD></TD><TD valign=top>005 magnetic, 002 true</TD></TR>
+<TR><TD nowrap valign=top align=right>Displaced threshold:&nbsp;</TD><TD valign=top>400 ft.</TD><TD></TD><TD valign=top>1001 ft.</TD></TR>
+<TR><TD nowrap valign=top align=right>Declared distances:&nbsp;</TD><TD valign=top>TORA:9006 TODA:9006 ASDA:9006 LDA:8606</TD><TD></TD><TD valign=top>TORA:9006 TODA:9006 ASDA:9006 LDA:8006</TD></TR>
+<TR><TD valign=top align=right>Markings:&nbsp;</TD><TD valign=top>precision, in good condition</TD><TD></TD><TD valign=top>precision, in good condition</TD></TR>
+<TR><TD nowrap valign=top align=right>Visual slope indicator:&nbsp;</TD><TD valign=top>4-light PAPI on left (3.00 degrees glide path)<BR>OPERATES  CONTINUOUSLY.</TD><TD></TD><TD valign=top>4-light PAPI on left (3.00 degrees glide path)<BR>OPERATES CONTINUOUSLY.</TD></TR>
+<TR><TD nowrap valign=top align=right>RVR equipment:&nbsp;</TD><TD valign=top>touchdown, rollout</TD><TD></TD><TD valign=top>touchdown, midfield, rollout</TD></TR>
+<TR><TD nowrap valign=top align=right>Approach lights:&nbsp;</TD><TD valign=top>MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights</TD><TD></TD><TD valign=top>ALSF2: standard 2,400 foot high intensity approach lighting system with centerline sequenced flashers (category II or III)</TD></TR>
+<TR><TD nowrap align=right>Runway end identifier lights:&nbsp;</TD><TD>no</TD><TD></TD><TD>no</TD></TR>
+<TR><TD nowrap align=right>Centerline lights:&nbsp;</TD><TD>yes</TD><TD></TD><TD>yes</TD></TR>
+<TR><TD nowrap valign=top align=right>Touchdown point:&nbsp;</TD><TD valign=top>yes, no lights</TD><TD></TD><TD valign=top>yes, no lights</TD></TR>
+<TR><TD nowrap align=right>Instrument approach:&nbsp;</TD><TD>ILS</TD><TD></TD><TD>ILS</TD></TR>
+<TR><TD valign=top align=right>Obstructions:&nbsp;</TD><TD valign=top>50 ft. hill, 1634 ft. from runway, 689 ft. left of centerline, 28:1 slope to clear<BR>APCH RATIO 40:1 FM DSPLCD THR.</TD><TD></TD><TD valign=top>none</TD></TR>
+</TABLE>
+
+<H4>Runway 3/21</H4>
+<TABLE cellspacing=0 cellpadding=0 border=0>
+<TR><TD valign=top align=right>Dimensions:&nbsp;</TD><TD colspan=3 valign=top>7200 x 150 ft. / 2195 x 46 m</TD></TR>
+<TR><TD valign=top align=right>Surface:&nbsp;</TD><TD colspan=3 valign=top>concrete/grooved, in good condition</TD></TR>
+<TR><TD nowrap valign=top align=right>Weight bearing capacity:&nbsp;</TD><TD colspan=3 valign=top><TABLE cellpadding=0 cellspacing=0 border=0><TR><TD colspan=2>PCN 95 /R/B/W/T</TD></TR><TR><TD valign=top nowrap>Single wheel:&nbsp;</TD><TD valign=top>100.0</TD></TR><TR><TD valign=top nowrap>Double wheel:&nbsp;</TD><TD valign=top>200.0</TD></TR><TR><TD valign=top nowrap>Double tandem:&nbsp;</TD><TD valign=top>350.0</TD></TR></TABLE></TD></TR>
+<TR><TD nowrap valign=top align=right>Runway edge lights:&nbsp;</TD><TD colspan=3 valign=top>high intensity</TD></TR>
+<TR><TD valign=top></TD><TD valign=top><B>RUNWAY 3</B></TD><TD>&nbsp;&nbsp;</TD><TD valign=top><B>RUNWAY 21</B></TD></TR>
+<TR><TD align=right>Latitude:&nbsp;</TD><TD>43-07.998117N</TD><TD></TD><TD>43-09.034818N</TD></TR>
+<TR><TD align=right>Longitude:&nbsp;</TD><TD>089-20.505437W</TD><TD></TD><TD>089-19.720958W</TD></TR>
+<TR><TD valign=top align=right>Elevation:&nbsp;</TD><TD valign=top>860.8 ft.</TD><TD></TD><TD valign=top>886.6 ft.</TD></TR>
+<TR><TD nowrap align=right>Traffic pattern:&nbsp;</TD><TD>left</TD><TD></TD><TD>left</TD></TR>
+<TR><TD nowrap valign=top align=right>Runway heading:&nbsp;</TD><TD valign=top>032 magnetic, 029 true</TD><TD></TD><TD valign=top>212 magnetic, 209 true</TD></TR>
+<TR><TD nowrap valign=top align=right>Displaced threshold:&nbsp;</TD><TD valign=top>431 ft.</TD><TD></TD><TD valign=top>no</TD></TR>
+<TR><TD nowrap valign=top align=right>Declared distances:&nbsp;</TD><TD valign=top>TORA:7200 TODA:7200 ASDA:7200 LDA:6770</TD><TD></TD><TD valign=top>TORA:6770 TODA:6770 ASDA:7015 LDA:7015</TD></TR>
+<TR><TD valign=top align=right>Markings:&nbsp;</TD><TD valign=top>precision, in good condition</TD><TD></TD><TD valign=top>precision, in good condition</TD></TR>
+<TR><TD nowrap valign=top align=right>Visual slope indicator:&nbsp;</TD><TD valign=top>4-light PAPI on left (3.00 degrees glide path)<BR>OPERATES CONTINUOUSLY.</TD><TD></TD><TD valign=top>4-light PAPI on left (3.00 degrees glide path)<BR>OPERATES CONTINUOUSLY.</TD></TR>
+<TR><TD nowrap valign=top align=right>Approach lights:&nbsp;</TD><TD valign=top></TD><TD></TD><TD valign=top>MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights</TD></TR>
+<TR><TD nowrap align=right>Runway end identifier lights:&nbsp;</TD><TD>yes</TD><TD></TD><TD></TD></TR>
+<TR><TD nowrap valign=top align=right>Touchdown point:&nbsp;</TD><TD valign=top>yes, no lights</TD><TD></TD><TD valign=top>yes, no lights</TD></TR>
+<TR><TD nowrap align=right>Instrument approach:&nbsp;</TD><TD></TD><TD></TD><TD>ILS/DME</TD></TR>
+<TR><TD valign=top align=right>Obstructions:&nbsp;</TD><TD valign=top>72 ft. trees, 2760 ft. from runway, 460 ft. left of centerline, 35:1 slope to clear<BR>RY 03 APCH RATIO 41:1 FM DSPLCD THLD.</TD><TD></TD><TD valign=top>19 ft. road, 2050 ft. from runway</TD></TR>
+</TABLE>
+
+<H4>Runway 14/32</H4>
+<TABLE cellspacing=0 cellpadding=0 border=0>
+<TR><TD valign=top align=right>Dimensions:&nbsp;</TD><TD colspan=3 valign=top>5846 x 150 ft. / 1782 x 46 m</TD></TR>
+<TR><TD valign=top align=right>Surface:&nbsp;</TD><TD colspan=3 valign=top>concrete/grooved, in good condition</TD></TR>
+<TR><TD nowrap valign=top align=right>Weight bearing capacity:&nbsp;</TD><TD colspan=3 valign=top><TABLE cellpadding=0 cellspacing=0 border=0><TR><TD colspan=2>PCN 95 /R/B/W/T</TD></TR><TR><TD valign=top nowrap>Single wheel:&nbsp;</TD><TD valign=top>75.0</TD></TR><TR><TD valign=top nowrap>Double wheel:&nbsp;</TD><TD valign=top>190.0</TD></TR><TR><TD valign=top nowrap>Double tandem:&nbsp;</TD><TD valign=top>350.0</TD></TR></TABLE></TD></TR>
+<TR><TD nowrap valign=top align=right>Runway edge lights:&nbsp;</TD><TD colspan=3 valign=top>high intensity</TD></TR>
+<TR><TD valign=top></TD><TD valign=top><B>RUNWAY 14</B></TD><TD>&nbsp;&nbsp;</TD><TD valign=top><B>RUNWAY 32</B></TD></TR>
+<TR><TD align=right>Latitude:&nbsp;</TD><TD>43-08.874538N</TD><TD></TD><TD>43-08.177185N</TD></TR>
+<TR><TD align=right>Longitude:&nbsp;</TD><TD>089-20.493760W</TD><TD></TD><TD>089-19.588083W</TD></TR>
+<TR><TD valign=top align=right>Elevation:&nbsp;</TD><TD valign=top>858.9 ft.</TD><TD></TD><TD valign=top>861.5 ft.</TD></TR>
+<TR><TD nowrap align=right>Traffic pattern:&nbsp;</TD><TD>left</TD><TD></TD><TD>left</TD></TR>
+<TR><TD nowrap valign=top align=right>Runway heading:&nbsp;</TD><TD valign=top>139 magnetic, 136 true</TD><TD></TD><TD valign=top>319 magnetic, 316 true</TD></TR>
+<TR><TD nowrap valign=top align=right>Displaced threshold:&nbsp;</TD><TD valign=top>477 ft.</TD><TD></TD><TD valign=top>no</TD></TR>
+<TR><TD nowrap valign=top align=right>Declared distances:&nbsp;</TD><TD valign=top>TORA:5846 TODA:5846 ASDA:5846 LDA:5369</TD><TD></TD><TD valign=top>TORA:5846 TODA:5846 ASDA:5846 LDA:5846</TD></TR>
+<TR><TD valign=top align=right>Markings:&nbsp;</TD><TD valign=top>nonprecision, in good condition</TD><TD></TD><TD valign=top>nonprecision, in good condition</TD></TR>
+<TR><TD nowrap valign=top align=right>Visual slope indicator:&nbsp;</TD><TD valign=top>4-light PAPI on left (3.00 degrees glide path)<BR>OPERATES CONTINUOUSLY.</TD><TD></TD><TD valign=top>4-light PAPI on left (3.00 degrees glide path)<BR>OPERATES  CONTINUOUSLY.</TD></TR>
+<TR><TD nowrap align=right>Runway end identifier lights:&nbsp;</TD><TD>yes</TD><TD></TD><TD>yes</TD></TR>
+<TR><TD nowrap valign=top align=right>Touchdown point:&nbsp;</TD><TD valign=top>yes, no lights</TD><TD></TD><TD valign=top>yes, no lights</TD></TR>
+<TR><TD valign=top align=right>Obstructions:&nbsp;</TD><TD valign=top>none</TD><TD></TD><TD valign=top>112 ft. tree, 4047 ft. from runway, 440 ft. right of centerline, 34:1 slope to clear</TD></TR>
+</TABLE>
+
+<H3>Airport Ownership and Management from official FAA records</H3>
+<TABLE cellpadding=0 cellspacing=0 border=0>
+<TR><TD align=right>Ownership:&nbsp;</TD><TD>Publicly-owned</TD></TR>
+<TR><TD valign=top align=right>Owner:&nbsp;</TD><TD valign=top>DANE COUNTY<BR>4000 INTERNATIONAL LANE<BR>MADISON, WI 53704<BR>Phone 608-246-3380</TD></TR>
+<TR><TD valign=top align=right>Manager:&nbsp;</TD><TD valign=top>BRADLEY S. LIVINGSTON, AAE<BR>4000 INTERNATIONAL LANE<BR>MADISON, WI 53704<BR>Phone 608-246-3380</TD></TR>
+</TABLE>
+<A name="stats"></A><H3>Airport Operational Statistics</H3>
+<TABLE cellpadding=0 cellspacing=0 border=0><TR>
+<TD valign=top><TABLE cellpadding=0 cellspacing=0 border=0><TR valign=bottom><TD valign=bottom align=right>Aircraft based on the field:</TD><TD>&nbsp;</TD><TD valign=bottom align=right>148</TD></TR><TR valign=bottom><TD valign=bottom align=right>Single engine airplanes:</TD><TD>&nbsp;</TD><TD valign=bottom align=right>79</TD></TR><TR valign=bottom><TD valign=bottom align=right>Multi engine airplanes:</TD><TD>&nbsp;</TD><TD valign=bottom align=right>15</TD></TR><TR valign=bottom><TD valign=bottom align=right>Jet airplanes:</TD><TD>&nbsp;</TD><TD valign=bottom align=right>17</TD></TR><TR valign=bottom><TD valign=bottom align=right>Helicopters:</TD><TD>&nbsp;</TD><TD valign=bottom align=right>15</TD></TR><TR valign=bottom><TD valign=bottom align=right>Military aircraft:</TD><TD>&nbsp;</TD><TD valign=bottom align=right>22</TD></TR></TABLE></TD></TD><TD>&nbsp;&nbsp;</TD><TD bgcolor="#999999" width=1><IMG src="http://img.airnav.com/1dot.gif" width=1 height=1></TD><TD>&nbsp;&nbsp;</TD><TD valign=top><TABLE cellpadding=0 cellspacing=0 border=0></TD></TR>
+<TR valign=bottom><TD valign=bottom align=center colspan=2>Aircraft operations: avg 248/day<font size="-1">&nbsp;*</font></TD></TR><TR><TD valign=top align=right>28%&nbsp;</TD><TD valign=top>local general aviation</TD></TR><TR><TD valign=top align=right>24%&nbsp;</TD><TD valign=top>transient general aviation</TD></TR><TR><TD valign=top align=right>23%&nbsp;</TD><TD valign=top>air taxi</TD></TR><TR><TD valign=top align=right>17%&nbsp;</TD><TD valign=top>commercial</TD></TR><TR><TD valign=top align=right>8%&nbsp;</TD><TD valign=top>military</TD></TR><TR><TD colspan=2><FONT size="-1">* for 12-month period ending 31 May 2015</FONT></TD></TR></TABLE></TR></TABLE>
+
+
+<A name="notes"></A><H3>Additional Remarks</H3>
+<TABLE cellspacing=2 cellpadding=0 border=0>
+ <TR><TD valign=top class="rmk">E60-21&nbsp;</TD><TD valign=top class="rmk">BAK-14 BAK-12(B) (1620').</TD></TR>
+ <TR><TD valign=top class="rmk">E60-18&nbsp;</TD><TD valign=top class="rmk">BAK-14 BAK-12(B) (1900').</TD></TR>
+ <TR><TD valign=top class="rmk">E60-36&nbsp;</TD><TD valign=top class="rmk">BAK-14 BAK-12(B) (1748').</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">TWY F, TAXITRACK G RSTRD TO MILITARY.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">GA ACCESS AND PARKING TO WEST ACR RAMP IS PROHIBITED.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">ANG; PPR ALL ACFT DSN 724-8506,C608-245-4506, HOURS OF OPNS 1300-2230++ MON-FRI. CALL FOR RCR &amp; BASH.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">AVOID OVERFLIGHT OF YAHARA RIVER INVOF ARPT BLO 2000 FT AGL.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">RY 18 &amp; RY 14 APCH ENDS ARE CLOSELY ALIGNED. VERIFY CORRECT RY AND COMPASS HEADING PRIOR TO DEP.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">THE EAST RAMP AND TWYS B2, B5, E, J &amp; K CLSD TO ACFT WITH A WINGSPAN GTR THAN 117 FT.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">NOISE ABATEMENT PROCEDURES ARE IN EFFECT CTC ARPT OPNS.   DEP ACFT USE RY 36 AND RY 03 TO MAX EXTENT POSSIBLE FOR NS ABMT. LDG ACFT USE RY 18 AND RY 21 TO MAX EXTENT POSSIBLE FOR NOISE ABMT.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">ARNG: PPR, ARNG COPTER RQR SVC, CTC ARMY OPS, LTD TRAN SVC, OPR 1300-2200Z++ MON, TUE; 1300-0400Z++ WED-FRI, CLSD SAT, SUN DSN 745-8310, C608-301-8310.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">PPR FOR HIGH RISK FLT TEST 608-246-3397.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">HIGHSPEED ENGINE RUNUP PERMITTED IN THE NORTH HOLD BAY ONLY.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">BARRICADES ALONG WEST EDGE OF SOUTH APN ADJ TO MIL APN.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">WEST RAMP UNCONTROLLED; PUSHBACK IS AT PILOT'S DISCRETION.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">SERVICE-FUEL:  A++ (MIL)</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">ACR &amp; TURBO JET TRNG FLGTS PROHIBITED.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">BIRDS ON &amp; INVOF ARPT.</TD></TR>
+ <TR><TD valign=top class="rmk">-&nbsp;</TD><TD valign=top class="rmk">RY 18 ACFT ARRESTING DEVICE BAK 12/14 LCTD 1500 FT FM THR; RY 36 BAK 12/14 LCTD 750 FT FM THR; RY 21 BAK 12/14 LCTD 1620 FT FM THR.</TD></TR>
+</TABLE>
+ 
+
+    <A name="ifr"></A><H3>Instrument Procedures</H3>
+<FONT size="-1">NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should <A href="/depart?http://www.adobe.com/products/acrobat/readstep2.html" target="adobereader">download</A> the free Adobe Reader.<P><STRONG>NOT FOR NAVIGATION</STRONG>. Please procure official charts for flight.<BR>FAA instrument procedures published for use between 4 February 2016 at 0901Z and 3 March 2016 at 0900Z.</P></FONT>
+<TABLE border=0 cellpadding=0 cellspacing=0>
+<TR><TH colspan=3 align=left>&nbsp;<BR>IAPs - Instrument Approach Procedures</TH></TR>
+<TR>
+<TD>ILS OR LOC RWY 21&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245IL21.PDF" target="ifrproc">download</A> <FONT size="-1">(250KB)</FONT></TD><TR>
+<TD>ILS OR LOC/DME RWY 18&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245ILD18.PDF" target="ifrproc">download</A> <FONT size="-1">(290KB)</FONT></TD><TR>
+<TD>ILS OR LOC/DME RWY 36&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245ILD36.PDF" target="ifrproc">download</A> <FONT size="-1">(270KB)</FONT></TD><TR>
+<TD>ILS RWY 36 (SA CAT I)&nbsp;<B>**NEW**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245I36SAC1.PDF" target="ifrproc">download</A> <FONT size="-1">(234KB)</FONT></TD><TR>
+<TD>ILS RWY 18 (SA CAT I - II)&nbsp;<B>**NEW**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245I18SAC1_2.PDF" target="ifrproc">download</A> <FONT size="-1">(270KB)</FONT></TD><TR>
+<TD>ILS RWY 36(CAT II - III)&nbsp;<B>**NEW**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245I36C2_3.PDF" target="ifrproc">download</A> <FONT size="-1">(242KB)</FONT></TD><TR>
+<TD>RNAV (GPS) RWY 03&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245R3.PDF" target="ifrproc">download</A> <FONT size="-1">(230KB)</FONT></TD><TR>
+<TD>RNAV (GPS) RWY 14&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245R14.PDF" target="ifrproc">download</A> <FONT size="-1">(247KB)</FONT></TD><TR>
+<TD>RNAV (GPS) RWY 18&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245R18.PDF" target="ifrproc">download</A> <FONT size="-1">(253KB)</FONT></TD><TR>
+<TD>RNAV (GPS) RWY 21&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245R21.PDF" target="ifrproc">download</A> <FONT size="-1">(234KB)</FONT></TD><TR>
+<TD>RNAV (GPS) RWY 32&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245R32.PDF" target="ifrproc">download</A> <FONT size="-1">(236KB)</FONT></TD><TR>
+<TD>RNAV (GPS) RWY 36&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245R36.PDF" target="ifrproc">download</A> <FONT size="-1">(274KB)</FONT></TD><TR>
+<TD>VOR/DME OR TACAN RWY 14&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245VDT14.PDF" target="ifrproc">download</A> <FONT size="-1">(215KB)</FONT></TD><TR>
+<TD>VOR/DME OR TACAN RWY 18&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245VDT18.PDF" target="ifrproc">download</A> <FONT size="-1">(221KB)</FONT></TD><TR>
+<TD>VOR/DME OR TACAN RWY 32&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245VDT32.PDF" target="ifrproc">download</A> <FONT size="-1">(219KB)</FONT></TD><TR>
+<TD>VOR RWY 14&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245V14.PDF" target="ifrproc">download</A> <FONT size="-1">(200KB)</FONT></TD><TR>
+<TD>VOR RWY 18&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245V18.PDF" target="ifrproc">download</A> <FONT size="-1">(237KB)</FONT></TD><TR>
+<TD>VOR RWY 21&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245V21.PDF" target="ifrproc">download</A> <FONT size="-1">(185KB)</FONT></TD><TR>
+<TD>VOR RWY 32&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245V32.PDF" target="ifrproc">download</A> <FONT size="-1">(199KB)</FONT></TD><TR>
+<TD>VOR RWY 36&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245V36.PDF" target="ifrproc">download</A> <FONT size="-1">(216KB)</FONT></TD><TR>
+<TD>HI-TACAN RWY 18</TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245HT18.PDF" target="ifrproc">download</A> <FONT size="-1">(194KB)</FONT></TD><TR>
+<TD>HI-TACAN RWY 36</TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/00245HT36.PDF" target="ifrproc">download</A> <FONT size="-1">(192KB)</FONT></TD></TR>
+<TR>
+<TD>Radar Approach Procedures available&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/EC3RAD.PDF" target="ifrproc">download</A> <FONT size="-1">(36KB)</FONT></TD></TR>
+<TR>
+<TD>NOTE: Special Alternate Minimums apply&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/EC3ALT.PDF" target="ifrproc">download</A> <FONT size="-1">(57KB)</FONT></TD></TR>
+<TR>
+<TD>NOTE: Special Take-Off Minimums/Departure Procedures apply&nbsp;<B>**CHANGED**</B></TD><TD>&nbsp;&nbsp;</TD>
+<TD nowrap><A href="/depart?http://155.178.201.160/d-tpp/1602/EC3TO.PDF" target="ifrproc">download</A> <FONT size="-1">(301KB)</FONT></TD></TR>
+</TABLE>
+<P>Other nearby airports with instrument procedures:</P>
+<A href="/airport/87Y">87Y</A> - Blackhawk Airfield (7 nm E)<BR>
+<A href="/airport/C29">C29</A> - Middleton Municipal Airport - Morey Field (9 nm W)<BR>
+<A href="/airport/91C">91C</A> - Sauk-Prairie Airport (21 nm NW)<BR>
+<A href="/airport/61C">61C</A> - Fort Atkinson Municipal Airport (25 nm SE)<BR>
+<A href="/airport/C47">C47</A> - Portage Municipal Airport (26 nm N)<BR>
+
+  </td>
+  <td>&nbsp;</td>
+  <td width=240>
+   <table width=240 cellspacing=0 cellpadding=0 border=0><tr><td align="center">
+<FONT size="-2">
+<a href="#loc">Loc</a> | <a href="#ops">Ops</a> | <a href="#rwys">Rwys</a> | <a href="#ifr">IFR</a> | <a href="#biz">FBO</a> | <a href="#links">Links</a><br>
+<a href="#com">Com</a> | <a href="#nav">Nav</a> | <a href="#svcs">Svcs</a> | <a href="#stats">Stats</a> | <a href="#notes">Notes</a>
+</FONT>
+</td></tr>
+</TABLE>
+
+   <DIV align=center>
+<BR><A href="/adclick?18V" target=_blank><IMG src="//img.airnav.com/sp/1615.gif?v=NUFEJ2" width=240 height=240 alt="UVair FBO Network" border=0></A>
+<BR>
+</DIV>
+&nbsp;<BR>
+
+   <IMG src="//img.airnav.com/sm/00578?v=JPOX3Z" width=240 height=200 alt="Area around KMSN (Dane County Regional Airport-Truax Field)" border=0><BR>&nbsp;<BR>
+<FONT size="-1">
+Road maps at:
+<A href="http://www.mapquest.com/maps/map.adp?latlongtype=decimal&zoom=6&latitude=43.139879&longitude=-89.337504&name=KMSN" target="airport_maps">MapQuest</A>
+<A href="http://www.bing.com/maps/?sp=aN.43.139879_-89.337504_KMSN&lvl=14" target="airport_maps">Bing</A>
+<A href="http://maps.google.com/maps?ll=43.139879%2C-89.337504&spn=0.0348,0.0348" target="airport_maps">Google</A>
+
+</FONT>
+
+<BR>&nbsp;<BR>
+
+   <TABLE border=0 width="100%" cellpadding=2 cellspacing=0>
+<TR><TH bgcolor="#ccccff" align=left>Aerial photo</TH></TR>
+<TR><TD bgcolor="#ffffff">
+<FONT size="-2">
+<B>WARNING:</B> Photo may not be current or correct<BR>
+<IMG src="//img.airnav.com/ap/00578.jpg?v=J8NMCO" width=240 height=180 alt="Aerial photo of KMSN (Dane County Regional Airport-Truax Field)" border=0>
+<CENTER>Photo by Gary Chambers</CENTER>
+<CENTER>Taken in October 2004</CENTER>
+<CENTER>looking north</CENTER>
+<HR>
+Do you have a better or more recent aerial photo of Dane County Regional Airport-Truax Field that you would like to share?  If so, please <B><A href="/airports/submitphoto.html?id=KMSN">send us your photo</A></B>.<BR>
+<BR>&nbsp;<BR>
+</TD></TR>
+</TABLE>
+
+   <TABLE border=0 width="100%" cellpadding=2 cellspacing=0>
+<TR><TH bgcolor="#ccccff" align=left>Sectional chart</TH></TR>
+<TR><TD bgcolor="#ffffff">
+<A href="http://www.airnav.com/depart?http://www.vfrmap.com/?type=vfrc&lat=43.140&lon=-89.338&zoom=10" target="vfrmap"><IMG src="http://vfrmap.com/api?req=map&type=sectc&lat=43.139879&lon=-89.337504&zoom=10&width=240&height=240"></A>
+<BR>&nbsp;<BR>
+</TD></TR>
+</TABLE>
+
+   <TABLE border=0 width="100%" cellpadding=2 cellspacing=0>
+<TR><TH bgcolor="#ccccff" align=left>Airport diagram</TH></TR>
+<TR><TD bgcolor="#ffffff">
+
+</TD></TR>
+</TABLE>
+
+<IMG src="//img.airnav.com/aptdiag/FAA/00245AD.gif?v=JPUQ68" width=240 height=368 alt="Diagram of KMSN (Dane County Regional Airport-Truax Field)" border=0>
+<CENTER><FONT size="-2"><A href="http://155.178.201.160/d-tpp/1602/00245AD.PDF" target="ifrproc">Download PDF</A><BR>of official airport diagram from the FAA</FONT></CENTER>
+<BR>&nbsp;<BR>
+
+   <TABLE border=0 width="100%" cellpadding=2 cellspacing=0>
+<TR><TH bgcolor="#ccccff" align=left>Airport distance calculator</TH></TR>
+<TR><TD bgcolor="#ffffff">
+<FORM action="/airport/KMSN" method=POST>
+<FONT size="-1">Flying to Dane County Regional Airport-Truax Field?
+Find the distance to fly.</FONT>
+<P align=center>From <INPUT name="distance_from" maxlength=4 size=5>
+to KMSN<br>
+<INPUT type="image" src="//img.airnav.com/btn/calculate-distance.gif?v=HTW9TQ" border="0" name="calculatedistance" id="calculatedistance" alt="Calculate Distance" value=""></P>
+</FORM>
+</TD></TR>
+</TABLE>
+
+   <TABLE border=0 width="100%" cellpadding=2 cellspacing=0>
+<TR><TH bgcolor="#ccccff" align=left>Sunrise and sunset</TH></TR>
+<TR><TD bgcolor="#ffffff">
+<DIV align=right><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1"><I>Times for 24-Feb-2016</I></FONT></DIV>
+<TABLE cellspacing=0 border=0 cellpadding=0 width="100%">
+<TR><TH></TH><TH>&nbsp;</TH><TH><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">Local<BR>(UTC-6)</FONT></TH><TH>&nbsp;</TH><TH><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">Zulu<BR>(UTC)</FONT></TH></TR>
+<TR><TD><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">Morning civil twilight</FONT></TD><TD></TD><TD align=center><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">06:14</FONT></TD><TD></TD><TD align=center><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">12:14</FONT></TD></TR>
+<TR><TD><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">Sunrise</FONT></TD><TD></TD><TD align=center><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">06:43</FONT></TD><TD></TD><TD align=center><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">12:43</FONT></TD></TR>
+<TR><TD><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">Sunset</FONT></TD><TD></TD><TD align=center><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">17:39</FONT></TD><TD></TD><TD align=center><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">23:39</FONT></TD></TR>
+<TR><TD><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">Evening civil twilight</FONT></TD><TD></TD><TD align=center><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">18:07</FONT></TD><TD></TD><TD align=center><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">00:07</FONT></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+<br>
+   <TABLE border=0 width="100%" cellpadding=2 cellspacing=0>
+<TR><TH bgcolor="#ccccff" align=left>Current date and time</TH></TR>
+<TR><TD bgcolor="#ffffff">
+<TABLE cellspacing=0 border=0 cellpadding=0 width="100%">
+<TR valign=top><TH align=left><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">Zulu (UTC)&nbsp;&nbsp;</FONT></TH><TD align=right><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">25-Feb-2016 00:15:02</TD></TR>
+<TR valign=top><TH align=left><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">Local (UTC-6)&nbsp;&nbsp;</FONT></TH><TD align=right><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">24-Feb-2016 18:15:02</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+
+   &nbsp;<BR>
+<TABLE border=0 width="100%" cellpadding=2 cellspacing=0>
+<TR><TH bgcolor="#ccccff" align=left>METAR</TH></TR>
+<TR><TD bgcolor="#ffffff">
+<TABLE cellspacing=0 cellspacing=0 border=0>
+<TR><TD valign=top align=left nowrap><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1"><B>KMSN&nbsp;</B></FONT></TD><TD valign=top><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">242353Z 34011G18KT 10SM BKN045 BKN170 BKN250 02/M03 A2977 RMK AO2 SLP089 T00221033 10028 20017 53005
+</FONT></TD></TR>
+<TR><TD valign=top align=left nowrap><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1"><B><A href="http://www.airnav.com/airport/C29">KC29</A>&nbsp;</B><BR>9nm W&nbsp;</FONT></TD><TD valign=top><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">242355Z AUTO 34011KT 10SM OVC039 03/M01 A2978 RMK AO1 T00251015 10030 20025
+</FONT></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+
+<TABLE border=0 width="100%" cellpadding=2 cellspacing=0>
+<TR><TH bgcolor="#ccccff" align=left>TAF</TH></TR>
+<TR><TD bgcolor="#ffffff">
+<TABLE cellspacing=0 cellspacing=0 border=0>
+<TR><TD valign=top align=left nowrap><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1"><B>KMSN&nbsp;</B></FONT></TD><TD valign=top><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">242129Z 2421/2518 01015G27KT P6SM SCT027 OVC035 FM250200 35015G23KT P6SM OVC035 FM250600 34015G23KT P6SM OVC025 FM250800 34015G24KT P6SM OVC035 
+</FONT></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+
+
+   <TABLE border=0 width="100%" cellpadding=2 cellspacing=0>
+<TR><TH bgcolor="#ccccff" align=left>NOTAMs</TH></TR>
+<TR><TD bgcolor="#ffffff">
+<TABLE border="0" cellspacing="0" cellpadding="0">
+<TR valign=top>
+<TD width=20 align=left><A href="https://pilotweb.nas.faa.gov/PilotWeb/notamRetrievalByICAOAction.do?method=displayByICAOs&reportType=RAW&formatType=DOMESTIC&retrieveLocId=MSN&actionType=notamRetrievalByICAOs" target="NOTAMS"><IMG src="//img.airnav.com/wing.gif?v=HTWTJ4" width=16 height=16 alt="" border=0></A></TD>
+<TD align=left><A href="https://pilotweb.nas.faa.gov/PilotWeb/notamRetrievalByICAOAction.do?method=displayByICAOs&reportType=RAW&formatType=DOMESTIC&retrieveLocId=MSN&actionType=notamRetrievalByICAOs" target="NOTAMS" class="wl">Click for the latest <B>NOTAMs</B></A></TD>
+</TR>
+</TABLE>
+
+<FONT size="-1">NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.</FONT></P>
+&nbsp;<BR>
+</TD></TR>
+</TABLE>
+
+
+   <BR>&nbsp;
+  </td>
+ </tr>
+</table>
+&nbsp;<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<A name="biz"></A>
+<TABLE border=0 cellpadding=0 cellspacing=0 width="100%">
+<TR valign=middle bgcolor="#ffffff"><TH align=left colspan=12 width="100%" bgcolor="#9999ff"><H3>FBO, Fuel Providers, and Aircraft Ground Support</H3></TH></TR>
+<TR><td rowspan=4>&nbsp;&nbsp;</td><TH bgcolor="#ccccff" width=240>&nbsp;Business Name&nbsp;</TH><TH>&nbsp;</TH><TH bgcolor="#ccccff">&nbsp;Contact&nbsp;</TH><TH>&nbsp;</TH>
+<TH bgcolor="#ccccff" nowrap width="90%">&nbsp;Services / Description&nbsp;</TH><TH>&nbsp;</TH><TH width="10%" bgcolor="#ccccff">Fuel Prices</TH><TH>&nbsp;</TH><TH bgcolor="#ccccff" colspan=2 width=1>Comments</TH><td rowspan=4>&nbsp;&nbsp;</td></TR>
+<TR valign=middle>
+ <TD width=240><A href="/airport/KMSN/WISCONSIN_AV">Wisconsin Aviation-Madison</A></TD>
+ <TD></TD>
+ <TD nowrap align=left><FONT size="-1">608-268-5000<BR>toll-free 1-800-594-5359<BR>[<A href="/airport/KMSN/WISCONSIN_AV/link" onMouseover="window.status='http://www.wisconsinaviation.com/'; return true" target="ext_apt_KMSN">web site</A>]<BR>[<A href="mailto:wafl@wisconsinaviation.com?subject=Message from AirNav.com user to Wisconsin Aviation-Madison (KMSN)">email</A>]</FONT></TD>
+ <TD></TD>
+ <TD colspan=1><FONT size="-1">Airport management, Aviation fuel, Oxygen service, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, GPU / Power cart, ...<BR>
+<BR><TABLE border="0" cellspacing="0" cellpadding="0">
+<TR valign=top>
+<TD width=20 align=left><A href="/airport/KMSN/WISCONSIN_AV"><IMG src="//img.airnav.com/wing.gif?v=HTWTJ4" width=16 height=16 alt="" border=0></A></TD>
+<TD align=left><A href="/airport/KMSN/WISCONSIN_AV" class="wl"><FONT size="-1">More info about Wisconsin Aviation-Madison</FONT></A></TD>
+</TR>
+</TABLE>
+
+</FONT></TD>
+ <TD></TD>
+ <TD width="94">
+<table border=0 cellpadding=0 cellspacing=0 width=100%><tr><td colspan=5 align=center>Avfuel</td></tr><tr valign=top><td></td><td valign=top colspan=2 align=right nowrap width=50%>100LL</td> <td valign=top colspan=2 align=right nowrap width=50%>Jet A</td></tr><tr valign=top><td>FS&nbsp;</td><td nowrap align=right></td><td nowrap align=right>$4.29&nbsp;</td><td nowrap align=right></td><td nowrap align=right>$3.65&nbsp;</td></tr><tr><td colspan=5 align=center><font size=-2>&nbsp;Updated 23-Feb-2016</font></td></tr></table>
+</TD>
+ <TD></TD>
+ <TD align=center nowrap>&nbsp;
+<A href="/popup/ratings.html" target="_blank" onclick="javascript:window.open('/popup/ratings.html','airnavpopup','width=250,height=250,scrollbars=yes');return false;"><IMG src="//img.airnav.com/rating/aptpage/8.gif?v=L3K7L3" width=60 height=12 alt="" border=0></A><BR>&nbsp;<FONT size="-1">
+&nbsp;25&nbsp;<A href="/airport/KMSN/WISCONSIN_AV#c">read</A>&nbsp;<A href="/airport/KMSN/WISCONSIN_AV/comment">write</A></FONT>
+ </TD>
+</TR>
+ <TR height=1><TD colspan=10 height=1 bgcolor="#cccccc"><IMG src="//img.airnav.com/1dot.gif?v=HTWTIM" width=1 height=1 alt="" border=0></TD></TR>
+<TR><TD colspan=7 align=right><table cellpadding=0 cellspacing=0 border=0><tr><td>FS=<A href="/popup/service-explain.html?K=FS" target="_blank" onclick="javascript:window.open('/popup/service-explain.html?K=FS','airnavpopup','width=350,height=500,scrollbars=yes');return false;">Full service</A><br></td></tr></table>
+<A href="/airport/KMSN/update-fuel"><IMG src="//img.airnav.com/btn/update-prices.gif?v=HTW9TQ" width=125 height=20 alt="Update Fuel Prices" border=0></A>
+</td></tr>
+</TR>
+<TR><td>&nbsp;</td></tr>
+<TR valign=middle bgcolor="#ffffff"><TH align=left colspan=12 width="100%" bgcolor="#9999ff"><H3>Where to Eat: Catering, Restaurants, Food shops</H3></TH></TR>
+<TR><td rowspan=4>&nbsp;&nbsp;</td><TH bgcolor="#ccccff" width=240>&nbsp;Business Name&nbsp;</TH><TH>&nbsp;</TH><TH bgcolor="#ccccff">&nbsp;Contact&nbsp;</TH><TH>&nbsp;</TH>
+<TH bgcolor="#ccccff" nowrap width="90%">&nbsp;Services / Description&nbsp;</TH><TH>&nbsp;</TH><TH width="10%" bgcolor="#ccccff">Distance</TH><TH>&nbsp;</TH><TH bgcolor="#ccccff" colspan=2 width=1>Comments</TH><td rowspan=4>&nbsp;&nbsp;</td></TR>
+<TR valign=middle>
+ <TD width=240>Pat O'Malley's Jet Room</TD>
+ <TD></TD>
+ <TD nowrap align=left><FONT size="-1">608-268-5010<BR></FONT></TD>
+ <TD></TD>
+ <TD colspan=1><FONT size="-1">
+<FONT color="#666666">no information available</FONT><BR>
+<BR><FONT color="#999999">If you are affiliated with Pat O'Malley's Jet Room and would like to show here your services, contact info, web link, logo, and more, <A href="/listings/subscribe/KMSN/JET_ROOM">click here</A></FONT>
+</FONT></TD>
+ <TD></TD>
+<TD align=left nowrap><FONT size="-1">on airport</FONT></TD>
+ <TD></TD>
+ <TD align=center nowrap>&nbsp;
+<A href="/popup/ratings.html" target="_blank" onclick="javascript:window.open('/popup/ratings.html','airnavpopup','width=250,height=250,scrollbars=yes');return false;"><IMG src="//img.airnav.com/rating/aptpage/0.gif?v=L3KL3S" width=60 height=12 alt="" border=0></A><BR>&nbsp;<FONT size="-1">
+&nbsp;2&nbsp;<A href="/airport/KMSN/JET_ROOM#c">read</A>&nbsp;<A href="/airport/KMSN/JET_ROOM/comment">write</A></FONT>
+ </TD>
+</TR>
+ <TR height=1><TD colspan=10 height=1 bgcolor="#cccccc"><IMG src="//img.airnav.com/1dot.gif?v=HTWTIM" width=1 height=1 alt="" border=0></TD></TR>
+</TR>
+<TR><td>&nbsp;</td></tr>
+<TR valign=middle bgcolor="#ffffff"><TH align=left colspan=12 width="100%" bgcolor="#9999ff"><H3>Where to Stay: Hotels, Motels, Resorts, B&Bs, Campgrounds</H3></TH></TR>
+<TR><td rowspan=4>&nbsp;</td><TD colspan=10><FONT size="-1">In this space we feature lodging establishments that are convenient to the Dane County Regional Airport-Truax Field. If your hotel/inn/B&B/resort is near the Dane County Regional Airport-Truax Field, provides convenient transportation, or is otherwise attractive to pilots, flight crews, and airport users, consider listing it here.
+</FONT></TD><td rowspan=4>&nbsp;</td></TR>
+<TR valign=bottom><TD valign=bottom><A href="/listings/subscribe/KMSN"><IMG src="//img.airnav.com/btn/add-listing-stay.gif?v=HTW9TQ" width=240 height=20 alt="Feature A Hotel" border=0></A></TD></TR>
+</TR>
+<TR><TD colspan=10>&nbsp;<BR>
+<TABLE cellspacing=0>
+<TR valign=top>
+<TD width=320>
+<TABLE cellpadding=0 cellspacing=0 width="100%">
+<TR><TD colspan=4 nowrap><H4>AirNav users who flew into KMSN have stayed at...</H4></TD></TR>
+<TR><TH></TH><TD align=right colspan=2><FONT size="-1">Miles</FONT></TD><TD align=center nowrap><FONT size="-1">&nbsp;Price ($)</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=2B8E&near=KMSN">CROWNE PLAZA HOTEL MADISON</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;1.6&nbsp;</FONT></TD><TD align=right><FONT size="-1">140-190</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=2K4B&near=KMSN">COMFORT INN & SUITES MADISON - AIRPORT</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;1.9&nbsp;</FONT></TD><TD align=right><FONT size="-1">84-85</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=37CN&near=KMSN">HOWARD JOHNSON PLAZA HOTEL MADISON</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;1.7&nbsp;</FONT></TD><TD align=right><FONT size="-1">63-64</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=51MX&near=KMSN">DAYS INN MADISON NORTHEAST</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;3.7&nbsp;</FONT></TD><TD align=right><FONT size="-1">67-85</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=4FV1&near=KMSN">COURTYARD MADISON EAST</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;2.4&nbsp;</FONT></TD><TD align=right><FONT size="-1">179-217</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=2VNQ&near=KMSN">RESIDENCE INN BY MARRIOTT MADISON EAST</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;1.9&nbsp;</FONT></TD><TD align=right><FONT size="-1">159-160</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=2MF4&near=KMSN">MOTEL 6 MADISON EAST, WI</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;1.7&nbsp;</FONT></TD><TD align=right><FONT size="-1">71-86</FONT></TD></TR>
+<TR><TD>&nbsp;</TD></TR>
+<TR valign=top><TD colspan=4><H4>Other hotels near Dane County Regional Airport-Truax Field</H4></TD></TR>
+<TR><TH></TH><TD align=right colspan=2><FONT size="-1">Miles</FONT></TD><TD align=center nowrap><FONT size="-1">&nbsp;Price ($)</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=9R1F&near=KMSN">MOTEL 6 MADISON NORTH</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;1.7&nbsp;</FONT></TD><TD align=right><FONT size="-1">54-57</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=2LRA&near=KMSN">ECONO LODGE MADISON</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;1.8&nbsp;</FONT></TD><TD align=right><FONT size="-1">54-55</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=29YY&near=KMSN">HAMPTON INN MADISON EAST TOWNE MALL AREA</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;1.9&nbsp;</FONT></TD><TD align=right><FONT size="-1">101-169</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=2QC6&near=KMSN">RED ROOF INN MADISON, WI</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;1.9&nbsp;</FONT></TD><TD align=right><FONT size="-1">65-75</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=2C2M&near=KMSN">RODEWAY INN & SUITES WI MADISON-NORTHEAST</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;1.9&nbsp;</FONT></TD><TD align=right><FONT size="-1">58-80</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=2K2F&near=KMSN">SUPER 8 MADISON EAST</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;1.9&nbsp;</FONT></TD><TD align=right><FONT size="-1">59-71</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=2I3E&near=KMSN">BEST WESTERN EAST TOWNE SUITES</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;2.0&nbsp;</FONT></TD><TD align=right><FONT size="-1">85-90</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=9G7I&near=KMSN">ANNIE'S BED AND BREAKFAST</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;2.1&nbsp;</FONT></TD><TD align=right><FONT size="-1">189-190</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=5SRH&near=KMSN">HOLIDAY INN MADISON AT THE AMERICAN CENTER</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;2.1&nbsp;</FONT></TD><TD align=right><FONT size="-1">170-185</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=6OHH&near=KMSN">CAMBRIA SUITES MADISON</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;2.1&nbsp;</FONT></TD><TD align=right><FONT size="-1">99-129</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=3YS1&near=KMSN">MICROTEL INN & SUITES BY WYNDHAM MADISON EAST</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;2.3&nbsp;</FONT></TD><TD align=right><FONT size="-1">51-96</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=3GV8&near=KMSN">LA QUINTA INN & SUITES MADISON AMERICAN CENTER</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;2.4&nbsp;</FONT></TD><TD align=right><FONT size="-1">95-105</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=6QHO&near=KMSN">FAIRFIELD INN & SUITES BY MARRIOTT MADISON EAST</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;2.4&nbsp;</FONT></TD><TD align=right><FONT size="-1">149-169</FONT></TD></TR>
+<TR valign=middle><TD nowrap><A href="/reserve/hotel?tnid=4EGP&near=KMSN">GRANDSTAY RESIDENTIAL SUITES - MADISON EAST</A></TD><TD></TD><TD align=right nowrap><FONT size="-1">&nbsp;2.5&nbsp;</FONT></TD><TD align=right><FONT size="-1">94-104</FONT></TD></TR>
+</TABLE>
+<BR><FONT size="-1">Distances are approximate, and may vary depending on the actual route traveled and the location of the travel start on the airport.</FONT>
+</TD><TD>&nbsp;&nbsp;</TD><TD bgcolor="#999999"><IMG src="//img.airnav.com/1dot.gif?v=HTWTIM" width=1 height=1 alt="" border=0></TD><TD>&nbsp;&nbsp;</TD><TD><H4>Hotels in other cities near Dane County Regional Airport-Truax Field</H4><TABLE cellspacing=10 cellpadding=0 border=0><TR valign=top>
+<TD valign=top><TABLE border=0 cellpadding=0 cellspacing=0>
+<TR valign=top><TD align=right>2&nbsp;in&nbsp;</TD><TD><A href="/reserve/hotel?in=WINDSOR,WI,US&near=KMSN">Windsor</A></TD></TR>
+<TR valign=top><TD align=right>50&nbsp;in&nbsp;</TD><TD><A href="/reserve/hotel?in=MADISON,WI,US&near=KMSN">Madison</A></TD></TR>
+<TR valign=top><TD align=right>2&nbsp;in&nbsp;</TD><TD><A href="/reserve/hotel?in=DE+FOREST,WI,US&near=KMSN">De Forest</A></TD></TR>
+</TABLE></TD>
+<TD valign=top><TABLE border=0 cellpadding=0 cellspacing=0>
+<TR valign=top><TD align=right>7&nbsp;in&nbsp;</TD><TD><A href="/reserve/hotel?in=MIDDLETON,WI,US&near=KMSN">Middleton</A></TD></TR>
+<TR valign=top><TD align=right>2&nbsp;in&nbsp;</TD><TD><A href="/reserve/hotel?in=VERONA,WI,US&near=KMSN">Verona</A></TD></TR>
+<TR valign=top><TD align=right>2&nbsp;in&nbsp;</TD><TD><A href="/reserve/hotel?in=STOUGHTON,WI,US&near=KMSN">Stoughton</A></TD></TR>
+</TABLE></TD>
+</TR></TABLE></TD>
+</TR></TABLE>
+</TD></TR>
+<TR><td>&nbsp;</td></tr>
+<TR valign=middle bgcolor="#ffffff"><TH align=left colspan=12 width="100%" bgcolor="#9999ff"><H3>Would you like to see your business listed on this page?</H3></TH></TR>
+<TR><td>&nbsp;</td><td colspan=10><FONT size="-1">If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Dane County Regional Airport-Truax Field, you should consider listing it here.&nbsp; To start the listing process, click on the button below</font><br>&nbsp;<br>
+<A href="/listings/subscribe/KMSN"><IMG src="//img.airnav.com/btn/add-listing.gif?v=HTW9TQ" width=240 height=20 alt="Add a business" border=0></A>
+</td></tr>
+</TABLE>
+&nbsp;<BR>
+
+<A name="links"></A><H3>Other Pages about Dane County Regional Airport-Truax Field</H3>
+<TABLE border="0" cellspacing="0" cellpadding="0">
+<TR valign=top>
+<TD width=20 align=left><A href="/airportlink?5YCHU" target="ext_apt00578"><IMG src="//img.airnav.com/wing.gif?v=HTWTJ4" width=16 height=16 alt="" border=0></A></TD>
+<TD align=left><A href="/airportlink?5YCHU" target="ext_apt00578" class="wl">www.msnairport.com</A></TD>
+</TR>
+</TABLE>
+
+<TABLE border="0" cellspacing="0" cellpadding="0">
+<TR valign=top>
+<TD width=20 align=left><A href="/airportlink?6JS3M" target="ext_apt00578"><IMG src="//img.airnav.com/wing.gif?v=HTWTJ4" width=16 height=16 alt="" border=0></A></TD>
+<TD align=left><A href="/airportlink?6JS3M" target="ext_apt00578" class="wl">www.co.dane.wi.us/airport</A></TD>
+</TR>
+</TABLE>
+
+<TABLE border="0" cellspacing="0" cellpadding="0">
+<TR valign=top>
+<TD width=20 align=left><A href="/airportlink?757PE" target="ext_apt00578"><IMG src="//img.airnav.com/wing.gif?v=HTWTJ4" width=16 height=16 alt="" border=0></A></TD>
+<TD align=left><A href="/airportlink?757PE" target="ext_apt00578" class="wl">Page from the Wisconsin airport directory (PDF)</A></TD>
+</TR>
+</TABLE>
+
+&nbsp;<br>
+<A href="/airport/KMSN/reportlinks"><IMG src="//img.airnav.com/btn/update-remove-add-a-link.gif?v=J8WXHS" width=212 height=20 alt="Update a link" border=0></A>
+
+<BR>&nbsp;<BR>
+<TABLE width="100%" cellspacing=5 cellpadding=0 border=0 bgcolor="#CCCCFF">
+<TR><TD colspan=2 bgcolor="#333399"><IMG src="//img.airnav.com/1dot.gif?v=HTWTIM" width=1 height=1 alt="" border=0></TD></TR>
+<TR valign=bottom>
+<TD><FONT size="-2" color="#404040">
+Copyright &copy; AirNav, LLC. All rights reserved.
+</FONT>
+</TD>
+<TD align=right><FONT size="-2"><A href="/info/privacy.html">Privacy Policy</A>&nbsp;
+<A href="/info/contact.html">Contact</A></FONT></TD>
+</TR>
+</TABLE>
+
+<script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-467723-1']); 
+ _gaq.push(['_trackPageview']);
+ _gaq.push(['_trackEvent', 'Banner', 'bose2015-1', 'Impression']);
+ _gaq.push(['_trackEvent', 'AirportAd', '1615', 'KMSN']);
+ (function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>  
+</BODY>
+<!-- Copyright AirNav, LLC.  ALL RIGHTS RESERVED. -->
+</HTML>
+
