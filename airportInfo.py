@@ -8,7 +8,34 @@ import urllib
 import urllib.request
 
 
+#location = 'a' #moot input
+
+
+
+
+
 def extract(location,internationalFlag):
+
+    
+
+    while len(location) != 4:
+        location = input('Enter airport code [ICAO] >>> ')
+        if len(location) != 4:
+            print('Please enter 4-character airport code')
+
+    if location[0] != 'K': #K marks USA
+        internationalFlag = 1
+    else:
+        internationalFlag = 0
+
+
+    print(' ')
+    print('Stand by')
+    print(' ')
+
+
+    
+    
     url = 'https://aviationweather.gov/adds/metars?station_ids='+location+'&std_trans=standard&chk_metars=on&hoursStr=most+recent+only&submitmet=Submit'
     f = urllib.request.urlopen(url)
     html = f.read()
@@ -146,3 +173,5 @@ def extract(location,internationalFlag):
 
     print('Density Altitude:',densityAltitude,'feet')
     print('Difference from field elevation:',int(densityAltitude-fieldElevation),'feet')
+
+    return location
