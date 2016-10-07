@@ -172,6 +172,17 @@ densityAltitude = pressureAltitude+(120*(tempTrueC-tempISAC))
 print('Density Altitude:',densityAltitude,'feet')
 print('Difference from field elevation:',int(densityAltitude-fieldElevation),'feet')
 
+######################################################################################
+
+# Maps/Charts/etc.
+
+### Sectional
+
+
+
+### PLANNED FEATURE
+
+#TAXI DIAGRAM:
 
 # TO GET TAXI DIAGRAM
 url = 'http://flightaware.com/resources/airport/',startLocation[1:4],'/APD/AIRPORT+DIAGRAM/pdf'
@@ -184,3 +195,4 @@ url = 'http://flightaware.com/resources/airport/',startLocation[1:4],'/APD/AIRPO
 
 
 # Tried to fix for when an airport is not found. Untested
+
