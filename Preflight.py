@@ -8,8 +8,8 @@
 
 import time
 import datetime
-import urllib
-import urllib.request
+#import urllib
+#import urllib.request
 import webbrowser
 import airportInfo
 
@@ -41,7 +41,7 @@ print('Stand by')
 print(' ')
 
 ### START LOCATION ###
-airportInfo.run(startLocation)
+airportInfo.extract(startLocation, internationalFlag)
 ### --- --- --- ###
 
 ######################################################################################

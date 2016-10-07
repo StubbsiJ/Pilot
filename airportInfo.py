@@ -4,9 +4,11 @@
 
 # AIRPORT INFO
 
+import urllib
+import urllib.request
 
 
-def extract(location)
+def extract(location,internationalFlag):
     url = 'https://aviationweather.gov/adds/metars?station_ids='+location+'&std_trans=standard&chk_metars=on&hoursStr=most+recent+only&submitmet=Submit'
     f = urllib.request.urlopen(url)
     html = f.read()
