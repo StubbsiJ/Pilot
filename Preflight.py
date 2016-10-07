@@ -3,13 +3,14 @@
 # September 2015 - October 2016
 # Pre-flight Script
 
+# Dependencies: 
 
 
 import time
 import datetime
 import urllib
 import urllib.request
-
+import webbrowser
 
 
 i = 0
@@ -178,6 +179,9 @@ print('Difference from field elevation:',int(densityAltitude-fieldElevation),'fe
 
 ### Sectional
 
+
+url = 'http://flightaware.com/resources/airport/'+startLocation[1:4]+'/sectional'
+webbrowser.open(url)
 
 
 ### PLANNED FEATURE
