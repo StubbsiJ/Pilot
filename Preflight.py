@@ -1,5 +1,6 @@
 # Joshua Stubbs
-# September - Octover 2015
+# Python 3.3.4
+# September 2015 - October 2016
 # Pre-flight Script
 
 
@@ -77,6 +78,8 @@ if internationalFlag == 0: #Yankee airports
     metarDP = metarText[metarText.find('/')+1:metarText.find('/')+4]
     metarClouds = metarText[metarText.find('SM')+3:metarText.find('/')-3]
     metarAlt = metarText[metarText.find('A',20)+1:metarText.find('A',20)+5]
+
+    
 if internationalFlag == 1: #International airports
     metarTemp = metarText[metarText.find('/')-3:metarText.find('/')]
     metarDP = metarText[metarText.find('/')+1:metarText.find('/')+4]
