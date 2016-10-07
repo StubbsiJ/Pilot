@@ -26,6 +26,9 @@ print("Let's get started!")
 print(' ')
 
 
+
+################################## START LOCATION ####################################
+
 while len(startLocation) != 4:
     startLocation = input('Where are you taking off from? [ICAO] >>> ')
     if len(startLocation) != 4:
@@ -40,9 +43,25 @@ print(' ')
 print('Stand by')
 print(' ')
 
-### START LOCATION ###
 airportInfo.extract(startLocation, internationalFlag)
-### --- --- --- ###
+######################################################################################
+
+################################### END LOCATION #####################################
+while len(endLocation) != 4:
+    endLocation = input('Where are you taking off from? [ICAO] >>> ')
+    if len(endLocation) != 4:
+        print('Please enter 4-character airport code')
+
+if endLocation[0] != 'K': #K marks USA
+    internationalFlag = 1
+else:
+    internationalFlag = 0
+
+print(' ')
+print('Stand by')
+print(' ')
+
+airportInfo.extract(endLocation, internationalFlag)
 
 ######################################################################################
 
