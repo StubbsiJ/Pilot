@@ -11,7 +11,8 @@ import urllib.request
 #location = 'a' #moot input
 
 
-
+def run():
+    extract('a',1)
 
 
 def extract(location,internationalFlag):

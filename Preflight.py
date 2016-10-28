@@ -29,10 +29,10 @@ print(' ')
 ###########################    MAIN    ###############################################
 def main():
     selection = input('1: Enter start location       2: Enter end location \n >>> ')
-
-    if selection == 1:
+    
+    if selection == '1':
         startLocation = airportInfo.run()
-    elif selection == 2:
+    elif selection == '2':
         endLocation = airportInfo.run()
     else:
         print('\n \n \n Invalid selection, try again! \n \n \n ')
