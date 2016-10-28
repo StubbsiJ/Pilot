@@ -7,6 +7,9 @@
 import urllib
 import urllib.request
 
+global startLocation
+global endLocation
+
 
 #location = 'a' #moot input
 
@@ -17,7 +20,7 @@ def run():
 
 def extract(location,internationalFlag):
 
-    
+    info = {} # Used to return info
 
     while len(location) != 4:
         location = input('Enter airport code [ICAO] >>> ')
@@ -29,6 +32,8 @@ def extract(location,internationalFlag):
     else:
         internationalFlag = 0
 
+    startLocation.location = location #store location
+    startLocation.internationalFlag = interationalFlag #store int. flag
 
     print(' ')
     print('Stand by')

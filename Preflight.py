@@ -16,6 +16,13 @@ import webbrowser
 #custom scripts
 import airportInfo
 
+
+class airport: ### THIS IS BROKEN! LEARN TO USE THIS!! ### 
+    """ A class containing airport information"""
+
+startLocation = airport # To use class
+endLocation = airport # To use class 
+
 i = 0
 
 startUTC = (datetime.datetime.utcnow().hour, datetime.datetime.utcnow().minute)
@@ -46,6 +53,7 @@ while True:
 
 
 ### PLANNED FEATURES
+
 # Maps/Charts/etc.
 
 ### Sectional
